@@ -8,11 +8,11 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{8759003E-62FA-433E-B930-B8C9D4E0039E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Perulangan.My.MyApplication</StartupObject>
+    <StartupObject>Perulangan.Form1</StartupObject>
     <RootNamespace>Perulangan</RootNamespace>
     <AssemblyName>Perulangan</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <MyType>WindowsForms</MyType>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
   </PropertyGroup>
